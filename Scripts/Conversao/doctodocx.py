@@ -1,3 +1,6 @@
+# Esse script é para converter arquivos .doc para .docx, sem necessidade de abrir um a um.
+
+
 import os
 import win32com.client
 
